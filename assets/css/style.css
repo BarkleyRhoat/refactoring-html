@@ -50,6 +50,14 @@ p {
     font-size: 18px;
 }
 
+.hero {
+    height: 700px;
+    width: 100%;
+    margin-bottom: 20px;
+    background-image: url("..images/digital-marketing-meeting.jpg");
+    background-position: center;
+}
+
 .header div {
     padding-top: 15px;
     margin-right: 20px;
