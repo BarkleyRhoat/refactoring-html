@@ -41,6 +41,8 @@ body {
     margin-left: 25px;
 }
 
+/* text styles */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -59,6 +61,9 @@ p {
     background-position: center;
 }
 
+/* floats */
+
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,6 +73,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* content sections */
+
 
 .content {
     width: 75%;
@@ -188,6 +196,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* footer */
 
 .footer {
     padding: 30px;
