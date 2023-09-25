@@ -10,11 +10,18 @@ This project was created for the first challenge of my fullstack coding bootcamp
 
 ## Usage
 
+To use this webpage. you can look at the code I refactored by opening up the Chrome DevTools. To open DevToools on (macOS) you use command+Option+I or for (windows) you use Control+Shift+I. The code should appear on the right side of your screen where you can look through the HTML or CSS.
+
+![screenshot] (refactoring-html\assets\images\DevTool Screenshot.png)
+
+![screenshot](refactoring-html\assets\images\Screenshot README.MD.png)
+
 ## Credits
 
 Starter code provided by UPENN BootCamp ( Gitlab Link: https://git.bootcampcontent.com/University-of-Pennsylvania/UPENN-VIRT-FSF-PT-09-2023-U-LOLC#login-pane )
 
 Referenced: MDN Web Docs - Link (https://developer.mozilla.org/en-US/docs/Web/CSS , https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 
 ## License
 
