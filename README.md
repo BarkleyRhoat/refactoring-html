@@ -6,15 +6,17 @@ This project was created for the first challenge of my fullstack coding bootcamp
 
 ## Table of Content 
 
+
+
 ## Installation 
 
 ## Usage
 
 To use this webpage. you can look at the code I refactored by opening up the Chrome DevTools. To open DevToools on (macOS) you use command+Option+I or for (windows) you use Control+Shift+I. The code should appear on the right side of your screen where you can look through the HTML or CSS.
 
-![screenshot] (refactoring-html\assets\images\DevTool Screenshot.png)
+![screenshot](./assets/images/DevTool-Screenshot.png)
 
-![screenshot](refactoring-html\assets\images\Screenshot README.MD.png)
+![screenshot](./assets/images/Screenshot-README.MD.png)
 
 ## Credits
 
