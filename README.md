@@ -6,9 +6,14 @@ This project was created for the first challenge of my fullstack coding bootcamp
 
 ## Table of Content 
 
-
+- [Instalalation](#installation)
+- [usage](#usage)
+- [Credits](#credits)
+- [Liccense](#license) -- https://opensource.org/license/MIT
 
 ## Installation 
+
+https://barkleyrhoat.github.io/refactoring-html/
 
 ## Usage
 
